@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silverbrain
+- 👋 Hi, I’m Sina
 - 👀 I’m interested in Web and Data science
 - 🌱 I’m currently learning C language along with python
 - 💞️ I’m looking to collaborate on anything related to computer
