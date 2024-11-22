@@ -14,10 +14,10 @@ I've worked on a wide range of projects, from building high-performance backend 
 
 ### ⚡ Core Skills:
 - **Languages:** C/C++, C#, Python, Java, Bash scripts
-- **Frameworks and Libraries:** MVC, ASP.Net, Blazor, OpenMP, MPI, OpenCV, Django, Flask
+- **Frameworks and Libraries:** MVC, ASP.Net, Blazor, OpenMP, MPI, Fast API
 - **Databases:** MS SQL Server, PostgreSQL, SQLite, MySQL
-- **Cloud & DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
-- **Other Tools:** Git, VS Code, Trello, Linux
+- **Cloud & DevOps:** Docker, Jenkins, GitHub Actions
+- **Other Tools:** Git, Trello, Linux
 
 ## 📈 What’s Next?
 
